@@ -15,7 +15,7 @@ Solving DSA problems generally means writing a function that accepts an input, p
 
 Some optimization patterns are easy to recognize, and others make use of mathematical formulas you've neither heard of nor will ever use again, outside of that particular algorithm's niche... 
 
-Big O is tied directly to data structures as well. When considering whether to use an array or a hash map, your decision should be influenced by more than just personal preference--there are computational advantages and disadvantages. In other words, there is a difference you can talk about in terms of Big O.
+Big O is tied directly to data structures as well. When deciding whether to use an array or a hash map, your choice should be influenced by more than just personal preference--there are computational advantages and disadvantages. In other words, there is a difference you can talk about in terms of Big O.
 
 Here are two tables to refer to. I'll break down each notation below.
 
