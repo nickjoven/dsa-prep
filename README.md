@@ -5,7 +5,7 @@ This repo is simply a markdown file containing notes and submitted solutions for
 # Important Concepts
 
 ## [Big O](https://en.wikipedia.org/wiki/Big_O_notation)
----
+
 
 Big O is a BIG DEAL!
 
@@ -192,7 +192,6 @@ Need more Big O? **Here's an [exhaustive list](https://en.wikipedia.org/wiki/Tim
 &nbsp;
 
 ## [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
----
 
 Depending on the scope of your programming journey, arrays and hash maps may have been sufficient for 99% of the practical situation's you've been in. 
 
